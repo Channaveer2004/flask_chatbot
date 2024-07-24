@@ -1,4 +1,4 @@
-College Chatbot Project
+##College Chatbot Project
 This project is a pre-defined chatbot designed to assist college students with various inquiries. It is built using HTML, CSS, Python, and Flask, and is deployed on Vercel.
 
 
